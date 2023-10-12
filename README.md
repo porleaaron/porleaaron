@@ -19,7 +19,7 @@
 
 <p align='center'>
   <a href="https://wa.me/+639918266793?text=Hi">
-    <img src="https://img.shields.io/badge/whatsapp-26A5E4.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/whatsapp-5FFC7B.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="mailto:porleaaron28@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
